@@ -27,7 +27,7 @@ teched.mck
     ```
 - Body
     ```
-    {"LifeCycleStatusName": "Rejected: ${reasonForRejection}", "LifeCycleStatus": "A"}
+    {"LifeCycleStatusName": "Rejected: ${reasonForRejection}", "LifeCycleStatus": "R"}
     ```
 - Action Parameter
     ```
